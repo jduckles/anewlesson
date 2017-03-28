@@ -12,4 +12,4 @@ keypoints:
 
 >## This is a test
 > This is a fun way to make a callout
-{.callout}
+{: .callout}
